@@ -1,0 +1,30 @@
+.input
+{
+    position: relative;
+    left: 35%;
+    top: 300px;
+    width:600px;
+    height: 50px;
+    font-size: 30px;
+}
+.sub
+{
+    position: relative;
+    left: 45%;
+    top: 350px;
+    width: 200px;
+    height: 40px;
+    font-size: 25px;
+}
+td
+{
+    border: 2px solid black;
+    padding: 10px;
+    font-size:40px;
+    position: relative;
+    top: 450px;
+    left: 85%;
+}
+table{
+    display:none;
+}
